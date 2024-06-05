@@ -1,4 +1,4 @@
-**BizCardX: Business Card Information Extraction and Management**
+# BizCardX: Business Card Information Extraction and Management
 
 BizCardX is a Streamlit application designed to streamline the process of capturing, managing, and storing contact information from business cards. With BizCardX, users can easily upload images of business cards, extract relevant information using OCR (Optical Character Recognition), and save the extracted data into a database for future reference.
 
